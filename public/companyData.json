@@ -1,0 +1,128 @@
+{
+  "main": {
+    "name": "ELBS COMERCIALIZADORA Y MANUFACTURERA S.A DE C.V.",
+    "occupation": "Comercialización de material de calidad",
+    "description": "Empresa 100% mexicana, dsitribuidora de las marcas más prestigiosas",
+    "image": "BRUMAT_profilepic_white.png",
+    "bio": "Distribuimos y comercializamos el material de acero y metal para los procesos de producción y manufactura de las empresas.",
+    "contactmessage": "¡Ponte en contacto y adquire un producto de calidad a un precio competitivo!",
+    "email": "",
+    "phone": "557 446 9738",
+    "address": {
+      "street": "",
+      "city": "CDMX",
+      "state": "CDMX",
+      "zip": ""
+    },
+    "website": "https://www.linkedin.com/in/luis-alberto-aguilera-orta-237ba39",
+    "resumedownload": "https://www.linkedin.com/in/luis-alberto-aguilera-orta-237ba39/",
+    "social": [
+      {},
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100093611621359",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "whatsapp",
+        "url": "https://api.whatsapp.com/send?phone=5218712807040&text=Enlace%3A%0Ahttps%3A%2F%2Ffb.me%2F6rSyrAaZ3%0A%0AVi%20esto%20en%20Facebook...&source_url=https%3A%2F%2Ffb.me%2F6rSyrAaZ3&icebreaker=Vi%20esto%20en%20Facebook...&app=facebook&entry_point=post_cta&jid=5218712807040%40s.whatsapp.net&show_keyboard=1&show_ad_attribution=1&context=ARCrx0QFiKV5wjBBuNdz5YVnkIsXbVfSIpmO8yNfKXA8IhOk4Bf55CW4xl5U3-LS89XwXp56HcZIRDAU3C9uUQCVWxdTqzF0a_VzBJOF8FgFMPjwXALTHOjiDHv6m_jxODaKlZKaY9XCKR-Tx7dKcrarNQXWgpqWZwo49FqfJjPR3-Jgc9Q741CV_tAtCCRdVc2ds9llaJJBW16tQkcGO-hGd-9Amfxy8whQA-hRaC15pQvbMiHD3xKh0yaixxN-99srFOPEww&token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEyNSJ9.eyJleHAiOjE2ODc5MDc3NjksInBob25lIjoiNTIxODcxMjgwNzA0MCIsInRleHQiOiJFbmxhY2U6XG5odHRwczpcL1wvZmIubWVcLzZyU3lyQWFaM1xuXG5WaSBlc3RvIGVuIEZhY2Vib29rLi4uIiwic291cmNlX3VybCI6Imh0dHBzOlwvXC9mYi5tZVwvNnJTeXJBYVozIiwiaWNlYnJlYWtlciI6IlZpIGVzdG8gZW4gRmFjZWJvb2suLi4iLCJhcHAiOiJmYWNlYm9vayIsImVudHJ5X3BvaW50IjoicG9zdF9jdGEiLCJqaWQiOiI1MjE4NzEyODA3MDQwXHUwMDQwcy53aGF0c2FwcC5uZXQiLCJzaG93X2tleWJvYXJkIjoxLCJzaG93X2FkX2F0dHJpYnV0aW9uIjoxfQ.iBmZOEhx2QKKfdPtHqsPAWD6ryykhJSKTxq5O90Qh7zwjisMN-kfLat_Rzx0MafCZbnBonV3mO8YlGk1x4ulVg&fbclid=IwAR2LuVxwuSaqACAra5t6pEhEMJ_uChE_vaENIucnFX09KOpXHEeq3FPMfgs",
+        "className": "fa fa-phone"
+      },
+      {},
+      {}
+    ]
+  },
+  "resume": {
+    "skillmessage": "Algunas de nuestras fortalezas",
+    "education": [
+      {
+        "school": "Planos",
+        "degree": "Láminas acanalada, antiderrapamnte fundida y de zarpa, galvanizada y pintada, rolada en caliente o frío",
+        "graduated": "",
+        "description": "Placa de acero, tablero negro y galvanizado"
+      },
+      {
+        "school": "Materiales para Construcción",
+        "degree": "Tubería, mallas y Alambres, perfiles comerciales",
+        "graduated": "",
+        "description": "Acero Inoxidable"
+      }
+    ],
+    "work": [
+      {
+        "company": "ONG 1",
+        "title": "Fundador",
+        "years": "September 2015 - Present",
+        "description": "Ayudando a las comunidades..."
+      },
+      {
+        "company": "ONG 2",
+        "title": "Project Manager",
+        "years": "September 2013 - September 2015",
+        "description": "Líder de..."
+      },
+      {
+        "company": "ONG 3",
+        "title": "Project Manager",
+        "years": "September 2012 - March 2013",
+        "description": "Líder de.."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Liderazgo",
+        "level": "95%"
+      },
+      {
+        "name": "Responsabilidad Social",
+        "level": "70%"
+      },
+      {
+        "name": "Empatía",
+        "level": "60%"
+      },
+      {
+        "name": "Planeación estratégica",
+        "level": "59%"
+      },
+      {
+        "name": "Política Pública",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Lámina Acanalada",
+        "category": "",
+        "image": "Lam_Acan.jpg",
+        "url": ""
+      },
+      {
+        "title": "Tubería Conduit",
+        "category": "",
+        "image": "Tub_Conduit.jpg",
+        "url": ""
+      },
+      {
+        "title": "Perfiles Comerciales",
+        "category": "",
+        "image": "Perf_Inox.png",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Súper recomendados excelente servicio y trato",
+        "user": "Ana"
+      },
+      {
+        "text": "Servicio Calidad y Eficiencia",
+        "user": "Juan "
+      }
+    ]
+  }
+}
