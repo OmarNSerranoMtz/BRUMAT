@@ -6,8 +6,8 @@
     "image": "BRUMAT_profilepic_white.png",
     "bio": "Distribuimos y comercializamos el material de acero y metal para los procesos de producción y manufactura de las empresas.",
     "contactmessage": "¡Ponte en contacto y adquire un producto de calidad a un precio competitivo!",
-    "email": "",
-    "phone": "557 446 9738",
+    "email": "ventas@acerosymetalesbrumat.com | administracion@acerosymetalesbrumat.com",
+    "phone": "557 446 9738  |  55 5407 0951",
     "address": {
       "street": "",
       "city": "CDMX",
@@ -94,21 +94,45 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Lámina Acanalada",
-        "category": "",
+        "title": "ACERO INOXIDABLE",
+        "category": "Acero inox T-304 2B P3 Ro | Acero inox T 430 2B | Acero inox T-201 2B",
+        "image": "Acero_Inox.jpg",
+        "url": ""
+      },
+      {
+        "title": "METALES",
+        "category": "Aluminio 1100 H14 • 3003 H14 • 5052 H32 | Aluminio – Bronce – Cobre – Latón- Nylamid",
+        "image": "Metales_Tubos.jpg",
+        "url": ""
+      },
+      {
+        "title": "PLANOS",
+        "category": "Lámina acanalada • Antiderrapante Fundida • Antiderrapante Zarpa • Galvanizada y Pintada • Rolada en caliente • Rolada en frío | Placa de acero | Tablero negro y galvanizado",
         "image": "Lam_Acan.jpg",
         "url": ""
       },
       {
-        "title": "Tubería Conduit",
-        "category": "",
-        "image": "Tub_Conduit.jpg",
+        "title": "CONSTRUCCIÓN",
+        "category": "Alambre recocido | Castillo prefabricado | Clavo estándar con cabeza | Escalerilla | Malla electrosoldada | Varilla",
+        "image": "Varillas2.jpg",
         "url": ""
       },
       {
-        "title": "Perfiles Comerciales",
-        "category": "",
+        "title": "PERFILES COMERCIALES",
+        "category": "Ángulo comercial y A 36 | Canal | Canales Mon-Ten | Cuadrado | HSS | Perfil tubular galvanizado y pintado (PTG) | Perfil tubular rectangular (PTR) | Redondo | Solera | Viga IPR • IPS • Zeta y Tee",
         "image": "Perf_Inox.png",
+        "url": ""
+      },
+      {
+        "title": "MALLAS Y DERIVADOS",
+        "category": "Accesorios para cercas | Alambre pulido y galvanizado | Celosías | Concertinas | Gavión | Lámina perforada | Malla ciclónica | Metal desplegado • Desplegado Estructural | Plafón y canaleta | Reja de acero",
+        "image": "Mallas.jpg",
+        "url": ""
+      },
+      {
+        "title": "TUBERIA",
+        "category": " *Cedula 30,40 y 80 | *Conduit | Industrial cuadrado | Industrial ovalada | Industrial rectangular | Industrial redonda",
+        "image": "Tub_Conduit.jpg",
         "url": ""
       }
     ]

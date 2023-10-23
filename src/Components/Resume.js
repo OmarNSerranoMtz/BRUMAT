@@ -3,6 +3,7 @@ import React from "react";
 const Resume = ({ data }) => {
   if (data) {
     var skillmessage = data.skillmessage;
+    var profilepic = "images/" + data.image;
     var education = data.education.map(function (education) {
       return (
         <div key={education.school}>

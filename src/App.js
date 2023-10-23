@@ -23,10 +23,10 @@ const App = () => {
     <div className="App">
       <Header data={companyData.main} />
       <About data={companyData.main} />
-      <Resume data={companyData.resume} />
+      {/* <Resume data={companyData.resume} /> */}
       <Portfolio data={companyData.portfolio} />
-      <Testimonials data={companyData.testimonials} />
-      <Contact data={companyData.main} />
+      {/* <Testimonials data={companyData.testimonials} /> */}
+      {/* <Contact data={companyData.main} /> */}
       <Footer data={companyData.main} />
     </div>
   );

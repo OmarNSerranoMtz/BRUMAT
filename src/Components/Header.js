@@ -39,26 +39,26 @@ const Header = ({ data }) => {
               ¿Quiénes somos?
             </a>
           </li>
-          <li>
+          {/* <li>
             <a className="smoothscroll" href="#resume">
               Tipos de Servicio
             </a>
-          </li>
+          </li> */}
           <li>
             <a className="smoothscroll" href="#portfolio">
-              Proyectos
+              Productos
             </a>
           </li>
-          <li>
+          {/* <li>
             <a className="smoothscroll" href="#testimonials">
               Testimonios
             </a>
-          </li>
-          <li>
+          </li> */}
+          {/* <li>
             <a className="smoothscroll" href="#contact">
               Contacto
             </a>
-          </li>
+          </li> */}
         </ul>
       </nav>
 
