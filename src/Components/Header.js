@@ -72,7 +72,7 @@ const Header = ({ data }) => {
                   "Te brindamos el material que necesitas",
                 ],
                 deleteSpeed: 5,
-                delay: 50,
+                delay: "natural",
                 autoStart: true,
                 loop: true,
               }}
